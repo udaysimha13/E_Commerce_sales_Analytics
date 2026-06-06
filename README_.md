@@ -1,16 +1,13 @@
 ##### &#x20;**E-Commerce Sales Analytics \& Forecasting**
 
-##### 
 
-\##** Project Overview**
-
-
+ Project Overview
 
 This project analyzes e-commerce sales data and predicts future sales using time-series forecasting.
 
 
 
-\**## Tools Used **:
+ Tools Used:
 
 
 
